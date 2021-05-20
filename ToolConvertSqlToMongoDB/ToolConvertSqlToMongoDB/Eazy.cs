@@ -395,6 +395,7 @@ namespace ToolConvertSqlToMongoDB
 
 
                 #endregion
+                ////////////////////////////////////////////////
                 #region chuyên fullname  sang firstName và lasteName
                 //
                 conn.Open();
